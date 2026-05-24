@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "first_name": "Test",
+      "last_name": "Automation",
+      "address": "123 Test Street",
+      "city": "Test City",
+      "state": "Test State",
+      "zip_code": "123456",
+      "phone": "9876543210",
+      "ssn": "123456789",
+      "username": "testuser",
+      "password": "Test@12345"
+    }
+  ]
+}
